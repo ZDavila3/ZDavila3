@@ -13,5 +13,8 @@ I'm an aspiring data scientist building my version of a data based reality one s
      width="50" 
      height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
      width="50"
-     height="50"/>
+     height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"
+     height="50"
+     width="50"/>
+          
           
