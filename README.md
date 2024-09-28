@@ -19,7 +19,16 @@ I'm an aspiring data scientist building my version of a data based reality one s
      height="50"
      width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" 
      height="50"
+     width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" 
+     height="50"
+     width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+     height="50"
+     width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+     height="50"
      width="50"/>
+          
+          
+          
           
           
           
