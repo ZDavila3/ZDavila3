@@ -25,7 +25,17 @@ I'm an aspiring data scientist building my version of a data based reality one s
      height="50"
      width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
      height="50"
+     width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+     height="50"
+     width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" 
+     height="50"
+     width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+     height="50"
      width="50"/>
+          
+          
+     
+          
           
           
           
