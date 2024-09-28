@@ -10,6 +10,6 @@ I'm an aspiring data scientist building my version of a data based reality one s
 
 ## Language & Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
-     width="100" 
-     height="100" />
+     width="50" 
+     height="50" />
 
