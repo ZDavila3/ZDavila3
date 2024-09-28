@@ -8,7 +8,7 @@ I'm an aspiring data scientist building my version of a data based reality one s
 ![Static Badge](https://img.shields.io/badge/B.S.%20Student%20-%20Data%20Science%20-%20red)
 
 
-## Language & Tools
+## Languages & Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
      width="50" 
      height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
