@@ -36,6 +36,15 @@ I'm currently a student studying Data Science with a passion for exploring the v
 
 ## My Personal Portfolio Website
 
+## Featured Projects
+| Featured Projects         | Skill                 | 
+| -----------------         | ----------------------|
+| brain_tumor_classifier.py | Images not found?     | 
+| brain_tumor_classifier.py | Not generating an h5? | 
+| mri_classifier.py         | Not reading the h5?   | 
+| mri_classifier.py         | No Chat Bot?          |
+
+
 ## My Stats
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZDavila3&langs_count=5&theme=tokyonight)]()
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ZDavila3&count_private=true&theme=tokyonight&showicons=true)]()
