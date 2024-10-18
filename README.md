@@ -2,6 +2,7 @@
 
 `Data Craftsman (Scientist/Analyst/Visualizer)`
 
+## About Me ->
 ![Static Badge](https://img.shields.io/badge/B.S.%20Student%20-%20Data%20Science%20-%20red)
 
 
