@@ -1,10 +1,6 @@
-
-# Zanett Davila Gutierrez
 ![image](https://github.com/user-attachments/assets/cfa6407b-6990-4b16-afe2-233b03afac27)
 
 `Data Craftsman (Scientist/Analyst/Visualizer)`
-
-I'm an aspiring data scientist building my version of a data based reality one step at a time through personal projects and building models. Come embark this journey with me as I learn, grow and create.
 
 ![Static Badge](https://img.shields.io/badge/B.S.%20Student%20-%20Data%20Science%20-%20red)
 
