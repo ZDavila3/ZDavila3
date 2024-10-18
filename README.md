@@ -4,7 +4,7 @@
 
 ## About Me ->
 ![Static Badge](https://img.shields.io/badge/B.S.%20Student%20-%20Data%20Science%20-%20red)
-
+I'm currently a student studying Data Science with a passion for exploring the vast potential of machine learning and artificial intelligence. As I deepen my understanding of data-driven technologies, I'm eager to take on more challenging projects that allow me to apply ML and AI techniques in creative and impactful ways. I’m excited to learn new skills, collaborate with others, and push the boundaries of what's possible with cutting-edge technologies.
 
 ## Languages & Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
