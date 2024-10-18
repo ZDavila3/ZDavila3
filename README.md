@@ -1,5 +1,6 @@
 
 # Zanett Davila Gutierrez
+![image](https://github.com/user-attachments/assets/cfa6407b-6990-4b16-afe2-233b03afac27)
 
 `Data Craftsman (Scientist/Analyst/Visualizer)`
 
