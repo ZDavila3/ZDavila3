@@ -46,11 +46,11 @@ To provide a working and living documentation on some of the projects I have del
 ## Featured Projects
 | Featured Projects         | Skill                 | 
 | -----------------         | ----------------------|
-| [Braizen](https://github.com/ZDavila3/Braizen-Brain-tumor-classification/) |
- | Images not found?     | 
-| brain_tumor_classifier.py | Not generating an h5? | 
-| mri_classifier.py         | Not reading the h5?   | 
-| mri_classifier.py         | No Chat Bot?          |
+| [Braizen](https://github.com/ZDavila3/Braizen-Brain-tumor-classification/)  | Supervised ML, CNN, Stramlit |
+| Coming Soon     |  Supervised ML, CNN, Stramlit | 
+| Coming Soon     |  Supervised ML, CNN, Stramlit | 
+| Coming Soon     |  Supervised ML, CNN, Stramlit | 
+| Coming Soon     |  Supervised ML, CNN, Stramlit |
 
 
 ## My Stats
