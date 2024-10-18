@@ -11,7 +11,7 @@ I'm currently a student studying Data Science with a passion for exploring the v
 
 ## Objective 
 
-To provide a working and living documentation on some of the projects I have been working on, and hopefully inspire others to take from what I have made and grow. 
+To provide a working and living documentation on some of the projects I have delved into, and hopefully inspire others to take from what I have created. 
 
 ## Connect with me ! 
 
