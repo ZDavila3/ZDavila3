@@ -1,13 +1,20 @@
-`Data Craftsman (Scientist/Analyst/Visualizer)`
 
 ![image](https://github.com/user-attachments/assets/cfa6407b-6990-4b16-afe2-233b03afac27)
 
 
 
-## About Me ->
+## Hello, im Zanett
+
+`Data Craftsman (Scientist/Analyst/Visualizer)`
+
 I'm currently a student studying Data Science with a passion for exploring the vast potential of machine learning and artificial intelligence. As I deepen my understanding of data-driven technologies, I'm eager to take on more challenging projects that allow me to apply ML and AI techniques in creative and impactful ways. I’m excited to learn new skills, collaborate with others, and push the boundaries of what's possible with cutting-edge technologies.
 
-![Static Badge](https://img.shields.io/badge/B.S.%20Student%20-%20Data%20Science%20-%20red)
+## Objective 
+
+To provide a working and living documentation on some of the projects I have been working on, and hopefully inspire others to take from what I have made and grow. 
+
+## Connect with me ! 
+
 
 ## Languages & Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
