@@ -7,11 +7,7 @@
 
 `Data Craftsman (Scientist/Analyst/Visualizer)`
 
-I'm currently a student studying Data Science with a passion for exploring the vast potential of machine learning and artificial intelligence. As I deepen my understanding of data-driven technologies, I'm eager to take on more challenging projects that allow me to apply ML and AI techniques in creative and impactful ways. I’m excited to learn new skills, collaborate with others, and push the boundaries of what's possible with cutting-edge technologies.
-
-## Objective 
-
-To provide a working and living documentation on some of the projects I have delved into, and hopefully inspire others to take from what I have created. 
+I'm currently a student studying Data Science with a passion for exploring the vast potential of machine learning and artificial intelligence. As I deepen my understanding of data-driven technologies, I'm eager to take on more challenging projects that allow me to apply ML and AI techniques in creative and impactful ways. I’m excited to learn new skills, collaborate with others, and push the boundaries of what's possible with cutting-edge technologies. If you'd like to work on a project with me please feel free to contact me! 
 
 ## Connect with me ! 
 
@@ -42,15 +38,16 @@ To provide a working and living documentation on some of the projects I have del
      width="50"/>
 
 ## My Personal Portfolio Website
+Coming soon
 
 ## Featured Projects
 | Featured Projects         | Skill                 | 
 | -----------------         | ----------------------|
 | [Braizen](https://github.com/ZDavila3/Braizen-Brain-tumor-classification/)  | Supervised ML, CNN, Stramlit |
-| Coming Soon     |  Supervised ML, CNN, Stramlit | 
-| Coming Soon     |  Supervised ML, CNN, Stramlit | 
-| Coming Soon     |  Supervised ML, CNN, Stramlit | 
-| Coming Soon     |  Supervised ML, CNN, Stramlit |
+| Coming Soon     |   | 
+| Coming Soon     | | 
+| Coming Soon     |   | 
+| Coming Soon     |  |
 
 
 ## My Stats
