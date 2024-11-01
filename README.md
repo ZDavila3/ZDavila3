@@ -11,7 +11,6 @@ I'm currently a student studying Data Science with a passion for exploring the v
 
 ## Connect with me ! 
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zanett-davila-gutierrez/)
 
 ## Languages & Tools
@@ -40,7 +39,8 @@ I'm currently a student studying Data Science with a passion for exploring the v
      width="50"/>
 
 ## My Personal Portfolio Website
-Coming soon
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 
 ## Featured Projects
 | Featured Projects         | Skill                 | 
