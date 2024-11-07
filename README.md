@@ -46,7 +46,7 @@ I'm currently a student studying Data Science with a passion for exploring the v
 | Featured Projects         | Skill                 | 
 | -----------------         | ----------------------|
 | [Braizen](https://github.com/ZDavila3/Braizen-Brain-tumor-classification/)  | Supervised ML, CNN, Stramlit |
-| [Link List](https://github.com/ZDavila3/Link-List-Chrome-Extension)         |   | 
+| [Link List](https://github.com/ZDavila3/Link-List-Chrome-Extension)         | Chrome Ext., Java Script  | 
 | Coming Soon     | | 
 | Coming Soon     |   | 
 | Coming Soon     |  |
