@@ -47,7 +47,7 @@ I'm currently a student studying Data Science with a passion for exploring the v
 | -----------------         | ----------------------|
 | [Braizen](https://github.com/ZDavila3/Braizen-Brain-tumor-classification/)  | Supervised ML, CNN, Streamlit |
 | [Link List](https://github.com/ZDavila3/Chrome-Extension-Project)           | Chrome Extension using Java Script/HTML/CSS  | 
-| [Personal Finance Tracker](https://github.com/mikey6002/Personal-Finance-Tracker)     | Python, Kivy, KivyMD | 
+| [Personal Finance Tracker](https://github.com/mikey6002/Personal-Finance-Tracker)     | Python, Kivy, KivyMD, Matplotlib | 
 | Coming Soon     |   | 
 | Coming Soon     |  |
 
