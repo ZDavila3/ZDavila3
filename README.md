@@ -51,7 +51,7 @@ I'm currently a student studying Data Science with a passion for exploring the v
 |     |   | 
 | Coming Soon     |  |
 
-## Want to learn about data using Python? Check these documnetations out ! 
+## Want to learn how to load / preprocess data for machine learning? Check these documnetations out ! 
 | Skill?          | Documentation                 | 
 | ----------------------| ----------------------|
 | Data Loading | |
