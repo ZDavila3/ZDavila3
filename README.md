@@ -52,8 +52,9 @@ I'm currently a student studying Data Science with a passion for exploring the v
 | Coming Soon     |  |
 
 ## Want to learn about data using Python? Check these documnetations out ! 
-| Data Loading....         |                  | 
-| Data Cleaning ...         | ----------------------|
+| Skill?          | Documentation                 | 
+| ----------------------| ----------------------|
+| Data Loading | |
 
 ## My Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ZDavila3&count_private=true&theme=tokyonight&showicons=true)]()
