@@ -54,7 +54,7 @@ I'm currently a student studying Data Science with a passion for exploring the v
 ## Want to learn how to load / preprocess data for machine learning? Check these documnetations out ! 
 | Skill?          | Documentation                 | 
 | ----------------------| ----------------------|
-| Data Loading / Inspection | https://github.com/ZDavila3/Regression-Analysis-and-KNN-Walkthrough/blob/main/1.%20Data%20Loading%20and%20Inspection.md|
+| Data Loading / Inspection | [EDA page link](https://github.com/ZDavila3/Regression-Analysis-and-KNN-Walkthrough/blob/main/1.%20Data%20Loading%20and%20Inspection.md)|
 | Data Cleaning ||
 | Statistic Crash for fiilling/replacing values||
 
