@@ -54,7 +54,9 @@ I'm currently a student studying Data Science with a passion for exploring the v
 ## Want to learn how to load / preprocess data for machine learning? Check these documnetations out ! 
 | Skill?          | Documentation                 | 
 | ----------------------| ----------------------|
-| Data Loading | |
+| Data Loading / Inspection | |
+| Data Cleaning ||
+| Statistic Crash for fiilling/replacing values||
 
 ## My Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ZDavila3&count_private=true&theme=tokyonight&showicons=true)]()
