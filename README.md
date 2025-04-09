@@ -3,7 +3,7 @@
 
 
 
-## Hello, im Zanett
+## Hello, im Zanett (Sah-net)
 
 `Data Craftsman (Scientist/Analyst/Visualizer)`
 
